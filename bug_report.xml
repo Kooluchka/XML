@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bag_rep>
+	<ID>A1</ID>
+	<Name>При клике по иконке банка переход на сайт банка не происходит</Name>
+	<Steps>
+		<step1>1. Открыть сайт ...</step1>
+		<step2>2. Проскролить страницу вниз</step2>
+		<step3>3. Кликнуть по иконке банка</step3>
+	</Steps>
+	<Actual result>Переход на сайт банка не выполнен</Actual result>
+	<Expected result>Выполнен переход на страницу выбранного банка</Expected result>
+</bag_rep>
