@@ -2,12 +2,13 @@
 
 <data>
         <NSF>
-                <name>Olga</name>
-                <surname>Kargina</surname>
-                <patronymic>Petrovna</patronymic>
-        </NFS>
+                <name>Ольга</name>
+                <surname>Малыгина</surname>
+                <patronymic>Константиновна</patronymic>
+        </NSF>
                 <age>25</age>
                 <animals>2</animals>
-                <future desired salary>Готов к обсуждению заработной платы в зависимости от условий труда, мотивации и дополнительных льгот</future desired salary>
+                <future desired salary>Готова к обсуждению заработной платы в зависимости от условий труда, мотивации и дополнительных льгот</future desired salary>
 </data>
+
 
